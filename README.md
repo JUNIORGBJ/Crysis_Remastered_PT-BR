@@ -30,7 +30,9 @@ Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, p
 - [Excel 2016](https://www.office.com/?omkt=pt-br)
 - [SDL Trados Studio 2019](https://www.sdltrados.com)
 
+## Doações
 
+[![Picpay](https://i.ibb.co/cYcsCnZ/hhhh.png)](https://picpay.me/gilsongbj)
 
 Obrigado!:wave:
 
