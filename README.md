@@ -1,4 +1,6 @@
-# Crysis_Remastered_PT-BR
+<h1 align="center"><figure>
+  <img src="Crysis.Remastered.png">
+</figure></h1>
 
 
 ## Sobre a Tradução.
