@@ -1,3 +1,4 @@
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/Crysis_Remastered_PT-BR)](https://github.com/JUNIORGBJ/Crysis_Remastered_PT-BR/releases/latest)
 <h1 align="center"><figure>
   <img src="Crysis.Remastered.png">
 </figure></h1>
@@ -15,7 +16,7 @@ Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, p
 
 ## Requerimentos
 
-- Obrigatório o uptade Ver 1.2 (v131072)
+- Obrigatório o update Ver 1.2 (v131072)
 - Nintendo Switch Debloqueado - SXOS ou ATMOSPHERE>
 
 ## Instalação
