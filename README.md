@@ -4,34 +4,34 @@
 </figure></h1>
 
 
-## :small_orange_diamond:Sobre a Tradução.
+## :small_blue_diamond:Sobre a Tradução.
 
 Tradução feita pelo grupo GameVicio.
 
 _ "Portado para Nintendo Switch por Traduções GBJ" _
 
-## :small_orange_diamond:Por quê?
+## :small_blue_diamond:Por quê?
 
 Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, portanto ficarei feliz se você puder ajudar de alguma forma o projeto, tradução, erros ortográficos e revisão em jogo!
 
-## :small_orange_diamond:Requerimentos
+## :small_blue_diamond:Requerimentos
 
 - Obrigatório o update Ver 1.2 (v131072)
 - Nintendo Switch Debloqueado - SXOS ou ATMOSPHERE>
 
-## :small_orange_diamond:Instalação
+## :small_blue_diamond:Instalação
 
 - **SXOS:** Colar a pasta ```SXOS``` dentro do MicroSD e iniciar o jogo normalmente.
 
 - **ATMOSPHERE:** Colar a pasta ```ATMOSPHERE``` dentro do MicroSD e iniciar o jogo normalmente.
 
-## :small_orange_diamond:Ferramentas Ultilizadas
+## :small_blue_diamond:Ferramentas Ultilizadas
 
 :link: [Visual Studio Code](https://code.visualstudio.com)
 :link: [Excel 2016](https://www.office.com/?omkt=pt-br)
 :link: [SDL Trados Studio 2019](https://www.sdltrados.com)
 
-## :small_orange_diamond:Doações
+## :small_blue_diamond:Doações
 
 [![Picpay](https://i.ibb.co/cYcsCnZ/hhhh.png)](https://picpay.me/gilsongbj)
 
