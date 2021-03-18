@@ -487,29 +487,29 @@
     ss:Hidden="1"/>
    <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C3:R2C16"/>
   </Names>
-  <Table ss:ExpandedColumnCount="20" ss:ExpandedRowCount="1809" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="20" ss:ExpandedRowCount="1813" x:FullColumns="1"
    x:FullRows="1" ss:StyleID="s63">
    <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="13.5"/>
-   <Column ss:StyleID="s65" ss:AutoFitWidth="0" ss:Width="224.25"/>
-   <Column ss:StyleID="s66" ss:AutoFitWidth="0" ss:Width="95.25"/>
-   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="327.75"/>
+   <Column ss:StyleID="s65" ss:Width="306"/>
+   <Column ss:StyleID="s66" ss:AutoFitWidth="0" ss:Width="99.75"/>
+   <Column ss:StyleID="s63" ss:Width="1342.5"/>
    <Column ss:StyleID="s67" ss:AutoFitWidth="0" ss:Width="57"/>
-   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="75.75"/>
-   <Column ss:StyleID="s68" ss:Hidden="1" ss:AutoFitWidth="0" ss:Width="60"/>
-   <Column ss:StyleID="s63" ss:Hidden="1" ss:AutoFitWidth="0" ss:Width="47.25"/>
-   <Column ss:StyleID="s63" ss:Hidden="1" ss:AutoFitWidth="0" ss:Width="29.25"/>
-   <Column ss:StyleID="s67" ss:Hidden="1" ss:AutoFitWidth="0" ss:Width="28.5"/>
-   <Column ss:StyleID="s67" ss:Hidden="1" ss:AutoFitWidth="0" ss:Width="35.25"/>
-   <Column ss:StyleID="s67" ss:Hidden="1" ss:AutoFitWidth="0" ss:Width="27.75"/>
-   <Column ss:StyleID="s63" ss:Hidden="1" ss:AutoFitWidth="0" ss:Width="234.75"/>
-   <Column ss:StyleID="s63" ss:Hidden="1" ss:AutoFitWidth="0" ss:Width="74.25"/>
-   <Column ss:StyleID="s63" ss:Hidden="1" ss:AutoFitWidth="0" ss:Width="69"/>
-   <Column ss:StyleID="s63" ss:Hidden="1" ss:AutoFitWidth="0" ss:Width="95.25"/>
-   <Column ss:StyleID="s63" ss:Hidden="1" ss:AutoFitWidth="0" ss:Width="72"/>
-   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="222.75"/>
-   <Column ss:StyleID="s63" ss:Width="106.5"/>
+   <Column ss:StyleID="s63" ss:Width="81"/>
+   <Column ss:StyleID="s68" ss:Width="120"/>
+   <Column ss:StyleID="s63" ss:Width="180.75"/>
+   <Column ss:StyleID="s63" ss:Width="63.75"/>
+   <Column ss:StyleID="s67" ss:Width="51.75"/>
+   <Column ss:StyleID="s67" ss:Width="51"/>
+   <Column ss:StyleID="s67" ss:Width="75"/>
+   <Column ss:StyleID="s63" ss:Width="51.75"/>
+   <Column ss:StyleID="s63" ss:Width="69.75"/>
+   <Column ss:StyleID="s63" ss:Width="58.5"/>
+   <Column ss:StyleID="s63" ss:Width="123.75"/>
+   <Column ss:StyleID="s63" ss:Width="76.5"/>
+   <Column ss:StyleID="s63" ss:Width="115.5"/>
+   <Column ss:StyleID="s63" ss:Width="100.5"/>
    <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="129"/>
-   <Row ss:AutoFitHeight="0" ss:Height="51" ss:StyleID="s69">
+   <Row ss:Height="38.25" ss:StyleID="s69">
     <Cell ss:StyleID="s71"/>
     <Cell ss:StyleID="s72"><Data ss:Type="String">AUDIO_FILENAME</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Person</Data><NamedCell
@@ -544,7 +544,7 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">Korean Translation</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">Your Translation</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s69">
+   <Row ss:Height="25.5" ss:StyleID="s69">
     <Cell ss:StyleID="s71"/>
     <Cell ss:StyleID="s76"/>
     <Cell ss:StyleID="s77"><NamedCell ss:Name="_FilterDatabase"/><NamedCell
@@ -571,7 +571,7 @@
     <Cell ss:StyleID="s78"/>
     <Cell ss:StyleID="s78"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s81">
+   <Row ss:Height="15.75" ss:StyleID="s81">
     <Cell ss:StyleID="s85"/>
     <Cell ss:StyleID="s86"/>
     <Cell ss:StyleID="s87"><Data ss:Type="String">hud text fields</Data></Cell>
@@ -699,7 +699,7 @@
     <Cell ss:Index="4" ss:StyleID="s96"><Data ss:Type="String">AMPLA ESCALA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_wm_NARROW</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s96"><Data ss:Type="String">ESTREITO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
@@ -930,7 +930,7 @@
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">PING</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_mp_IS_READY</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">ESTÁ PRONTO NO MINIMAP</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
@@ -940,7 +940,7 @@
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">TOTAL DE JOGADORES</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_mp_AVGPING</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">AVG PING</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
@@ -955,17 +955,17 @@
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">TEMPO RESTANTE</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_AS_LOCK</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">Ataque aéreo disponível. Encontre o alvo e inicie o ataque!</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_AS_USE</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">Ataque aéreo disponível. Use o binóculo para travar o alvo!</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_GO_BACK</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">VOCÊ DEIXOU A ÁREA DE COMBATE! VOLTE!</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
@@ -975,7 +975,7 @@
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">CUIDADO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="51">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_RETURN</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">VOLTE PARA A ÁREA DE COMBATE, OU IRÁ TERMINAR EM</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
@@ -1010,12 +1010,12 @@
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">ZONA DE COMPRA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_DL_SUCCESSFUL</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">BAIXADO COM SUCESSO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_DL</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">BAIXANDO...</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
@@ -1040,12 +1040,12 @@
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">VOLTAGEM DA CPU</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="51">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_CONTROLLER_CONNECTED</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">SEU CONTROLE FOI CONECTADO COM SUCESSO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_CONTROLLER_DISCONNECTED</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">SEU CONTROLE FOI DESCONECTADO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
@@ -1070,7 +1070,7 @@
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">C4</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_LETHAL_INJECTION</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">INJEÇÃO LETAL EM</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
@@ -1135,7 +1135,7 @@
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">REINICIAR</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_SYSTEM_ERROR_002</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">O SISTEMA NÃO ESTÁ FUNCIONANDO CORRETAMENTE</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
@@ -1155,12 +1155,12 @@
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">CARREGANDO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_SYSTEM_INFORMATION</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">INFORMAÇÃO DO SISTEMA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_SYSTEM_RESTARTED</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">O SISTEMA SERÁ REINICIADO AGORA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
@@ -1175,7 +1175,7 @@
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">SISTEMA TRAVADO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_SEQUENCE_STARTED</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">SEQUÊNCIA INICIADA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
@@ -1214,12 +1214,12 @@
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">RECONSTRUIR</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_LOST_RADAR</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">PERDA DO RADAR</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_ITEM_TAGGED</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">ITEM MARCADO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
@@ -1229,7 +1229,7 @@
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">ADQUIRINDO ALVO...</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_NO_WEAPON_AVAILABLE</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s98"><Data ss:Type="String">NENHUM ANEXO DISPONÍVEL PARA A ARMA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
@@ -1239,7 +1239,7 @@
     <Cell ss:Index="4" ss:StyleID="s95"><Data ss:Type="String">....OK</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_init_text01</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s95"><Data ss:Type="String">Carregando Unidade de Controle</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
@@ -1249,12 +1249,12 @@
     <Cell ss:Index="4" ss:StyleID="s95"><Data ss:Type="String">Carregando Unidade de Radar</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_init_text03</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s95"><Data ss:Type="String">Carregando Unidade Receptora Inimiga</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_init_text04</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s95"><Data ss:Type="String">Inicializando as Coordenadas</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
@@ -1264,27 +1264,27 @@
     <Cell ss:Index="4" ss:StyleID="s95"><Data ss:Type="String">inicializando modo Traje</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_init_text06</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s95"><Data ss:Type="String">Carregando Unidade de Armas</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_init_text07</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s95"><Data ss:Type="String">Inicializando as Armas</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_init_text08</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s95"><Data ss:Type="String">Checando a Saúde</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_init_text09</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s95"><Data ss:Type="String">Checando MUNIÇÃO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_init_text10</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s95"><Data ss:Type="String">Inicializando energia e barra de vida</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
@@ -1294,17 +1294,17 @@
     <Cell ss:Index="4" ss:StyleID="s95"><Data ss:Type="String">Carregando Unidade PDA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_init_text12</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s95"><Data ss:Type="String">Inicializando Objetivos</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_init_text13</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s95"><Data ss:Type="String">Inicializando Tarefas</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_init_text14</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s95"><Data ss:Type="String">Inicializando o Equipamento</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
@@ -1314,7 +1314,7 @@
     <Cell ss:Index="4" ss:StyleID="s95"><Data ss:Type="String">As coordenadas do mapa foram carregadas</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_vhh_init_TEXT01</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s95"><Data ss:Type="String">Sistema Black Fang Ativado…conectado</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
@@ -1324,12 +1324,12 @@
     <Cell ss:Index="4" ss:StyleID="s95"><Data ss:Type="String">Processando</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_vhh_init_TEXT03</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s95"><Data ss:Type="String">Integração___completada</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_vhh_init_TEXT04</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s95"><Data ss:Type="String">PROTOCOLO ESTABILIZADO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
@@ -1616,7 +1616,7 @@
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
     <Cell ss:Index="19" ss:StyleID="s95"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_radio_BTN12</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s95"><Data ss:Type="String">2 - AERONAVE DETECTADA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
@@ -1697,7 +1697,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">SISTEMAS CRYNET</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_ENVIRONMENT</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">AMBIENTE INICIALIZADO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -1757,7 +1757,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">ATENÇÃO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="51">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_WANNAQUIT</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">VOCÊ TEM CERTEZA QUE DESEJA SAIR?</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -1767,46 +1767,46 @@
     <Cell ss:Index="4"><Data ss:Type="String">SAIR DO CRYSIS</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_SEQUENCEINITIATED</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">SEQUENCIA INICIALIZADA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_CUSTOM</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">PERSONALIZADO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_CHOOSE</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">SELECIONAR</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_CHANGEALL</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">MUDAR TODAS CONFIGURAÇÕES PARA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="4"><Data ss:Type="String">MUITO ALTO - SOMENTE DX10</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_VERYHIGH</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">MUITO ALTO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_HIGH</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ALTO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_MEDIUM</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">MÉDIO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_LOW</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">BAIXO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"/>
@@ -1821,7 +1821,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">NÃO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_KEYINUSE</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">JÁ ESTA SENDO USADO POR</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -1911,12 +1911,12 @@
     <Cell ss:Index="4"><Data ss:Type="String">NÃO VAZIO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_NOHOST-CUSTOM</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">NENHUM HOST - PERSONALIZADO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_CONTROLLERSONLY</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">APENAS CONTROLADORES</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -1956,7 +1956,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">MORTES</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_KILLDEATHRATIO</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">PROPORÇÃO ENTRE INIMIGOS MORTOS / MORTES</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -1971,17 +1971,17 @@
     <Cell ss:Index="4"><Data ss:Type="String">AVISO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="63.75">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_REVERTDEFAULT</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">VOCÊ TEM CERTEZA QUE QUER REVERTER A CONFIGURAÇÃO PARA O PADRÃO?</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="76.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_RESTARTQUESTION</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">PARA HABILITAR AS OPÇÕES, VOCÊ PRECISA REINICIAR!</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_RESTARTQUESTION2</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">VOCÊ GOSTARIA DE REINICIAR O JOGO AGORA?</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2076,12 +2076,12 @@
     <Cell ss:Index="4"><Data ss:Type="String">TEMPO LIMITE DO MAPA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_ENABLETIMEOFDAY</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">HABILITAR HORA DO DIA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_ENABLEFRIENDLYFIRE</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">HABILITAR FOGO AMIGO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2096,22 +2096,22 @@
     <Cell ss:Index="4"><Data ss:Type="String">MODO HARDCORE</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_FREE-FOR-ALLVEHICLES</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">VEÍCULO PARA TODOS</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_STARTINGPRESTIGEPOINTS</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">PONTOS DE PRESTÍGIO INICIAIS</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_STARTINGTECHLEVEL</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">NÍVEL TECNOLÓGICO INICIAL</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_MAXIMUMPLAYERS</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">MÁXIMO DE JOGADORES</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"/>
@@ -2121,32 +2121,32 @@
     <Cell ss:Index="4"><Data ss:Type="String">MÁXIMO DE NÍVEL TECNOLÓGICO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_AUTOTEAMBALANCE</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">EQUILÍBRIO AUTOMÁTICO DE EQUIPES</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_KICKAFKPLAYERS</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">EXPULSAR JOGADORES</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_KICKTEAMKILLERS</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">TIRAR ASSASSINOS DE EQUIPE</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_ENABLEANTI-CHEAT</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">HABILITAR ANTI-CHEAT</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_DISABLEINTERNALCOMMS</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">DESABILITAR COMUNICAÇÕES INTERNAS</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_ALLOWCONTROLLERSONLY_DELETED</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">APENAS CONTROLADORES</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2181,7 +2181,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">MINUTOS</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_FRIENDLYKILLS</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ASSASSINATOS.</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2216,12 +2216,12 @@
     <Cell ss:Index="4"><Data ss:Type="String">MUTAÇÕES</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_btn_STARTNETGAME</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">COMEÇAR UM JOGO NA INTERNET</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_btn_STARTLANGAME</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">COMEÇAR UM JOGO DE REDE</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2236,7 +2236,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">NÍVEL</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_DATESAVED</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">DADOS SALVOS</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2271,12 +2271,12 @@
     <Cell ss:Index="4"><Data ss:Type="String">CARREGAR JOGO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_NEWGAMEDESCRIPTION</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">COMEÇAR UM NOVO JOGO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_DIFFICULTYLEVEL</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">NÍVEL DE DIFICULDADE</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2316,12 +2316,12 @@
     <Cell ss:Index="4"><Data ss:Type="String">DEMONSTRAÇÃO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_CREDITSDESCRIPTION</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">MOSTRAR OS CRÉDITOS DE CRYSIS</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_DEMODESCRIPTION</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">VER A DEMONSTRAÇÃO DE CRYSIS</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2331,7 +2331,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">CRÉDITOS/DEMONSTRAÇÃO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_CREDITSWELCOME</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">Bem vindo aos Créditos de Crysis - Essa é Mais uma tradução da GameVicio Brasil - www.gamevicio.com.br</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2361,12 +2361,12 @@
     <Cell ss:Index="4"><Data ss:Type="String">CARREGAR O PERFIL</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_NEWPROFILEDESCRIPTION</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">CRIAR UM NOVO PERFIL DE USUÁRIO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="63.75">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_LOADPROFILEDESCRIPTION</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">SELECIONE, CARREGUE, EDITE OU EXCLUA O PERFIL SELECIONADO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2376,7 +2376,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">EDITAR</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_PROFILETEXT01</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">NANO TRAJE VERSÃO 01</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2391,7 +2391,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">ENTRAR COM A CONTA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_PROFILEMINITEXT01</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">BASE DE DADOS PESSOAIS DA CRYNET</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2456,7 +2456,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">ARQUIVO PESSOAL</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_ENTERUSERNAME</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">COLOCAR O NOME DO USUÁRIO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2486,7 +2486,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">SALVAR O PERFIL</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_btn_PROFILEALREADYEXISTS</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">O PERFIL JÁ EXISTE</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2496,12 +2496,12 @@
     <Cell ss:Index="4"><Data ss:Type="String">SALVAR O JOGO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_SAVEGAMEDESCRIPTION</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">SALVAR UM JOGO OU SELECIONAR E EXCLUIR UM JOGO PRÉVIAMENTE SALVO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="51">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s63"><Data ss:Type="String">ui_menu_LOADGAMEDESCRIPTION</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">SELECIONE, CARREGUE OU EXCLUA UM JOGO PRÉVIAMENTE SALVO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2511,7 +2511,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">SALVAR</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_ENTERNAME</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">DÊ UM NOME PARA O JOGO SALVO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2526,12 +2526,12 @@
     <Cell ss:Index="4"><Data ss:Type="String">SISTEMA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_CONTROLSDESCRIPTION</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">CONFIGURE OS CONTROLES</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_SYSTEMDESCRIPTION</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">SOM</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2546,7 +2546,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">HABILITAR CONSOLE</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_ENABLE CONSOLE</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">GRÁFICOS</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2566,12 +2566,12 @@
     <Cell ss:Index="4"><Data ss:Type="String">CONTRASTE</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_GAMMACORRECTION</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">CORREÇÃO DE GAMA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_SOUNDEFFECTVOLUME</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">VOLUME DA MÚSICA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2581,12 +2581,12 @@
     <Cell ss:Index="4"><Data ss:Type="String">VOLUME DA FALA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_SPEECHVOLUME</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">HARDWARE MIXING</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_HARDWAREMIXING</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">RESOLUÇÃO DO JOGO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2601,7 +2601,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">CONFIGURAÇÃO DO SPEAKER</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_SPEAKERSETUP</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">QUALIDADE DO SOM</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2621,12 +2621,12 @@
     <Cell ss:Index="4"><Data ss:Type="String">HABILITAR CHAT POR VOZ</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_SCANHARDWARE</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">DETECTAR AUTOMÁTICAMENTE O HARDWARE E</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_OPTIMALSYSTEMSETTINGS</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">AJUSTAR AS CONFIGURAÇÕES DO SISTEMA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2641,22 +2641,22 @@
     <Cell ss:Index="4"><Data ss:Type="String">COR</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_btn_ADVANCEDOPTIONS</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">OPÇÕES AVANÇADAS</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_btn_BASICOPTIONS</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">OPÇÕES BÁSICAS</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_btn_OPTIMALSETTINGS</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">AJUSTAR AS CONFIGURAÇÕES</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_ADVANCEDGRAPHICSOPTIONS</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">OPÇÕES GRÁFICAS AVANÇADAS</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2676,12 +2676,12 @@
     <Cell ss:Index="4"><Data ss:Type="String">QUALIDADE DAS SOMBRAS</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_PHYSICSQ</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">QUALIDADE DA FÍSICA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_SHADERQ</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">QUALIDADE DO SOMBREAMENTO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2701,7 +2701,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">QUALIDADE PÓS-PROCESSAMENTO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_PARTICLEQ</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">QUALIDADE DAS PARTÍCULAS</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2721,17 +2721,17 @@
     <Cell ss:Index="4"><Data ss:Type="String">INVERTER O MOUSE</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_MOUSELOOK</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">VISÃO DO MOUSE</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_LOOKUP</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">OLHAR PARA CIMA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_LOOKDOWN</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">OLHAR PARA BAIXO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2776,7 +2776,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">PARA ESQUERDA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_STRAFERIGHT</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">PARA DIREITA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2786,32 +2786,32 @@
     <Cell ss:Index="4"><Data ss:Type="String">INCLINAR PARA ESQUERDA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_LEANRIGHT</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">INCLINAR PARA DIREITA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_STANDUP/JUMP</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">LEVANTAR / PULAR</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_VOICECHAT0</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">COMANDO POR RÁDIO 1</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_VOICECHAT1</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">COMANDO POR RÁDIO 2</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_VOICECHAT2</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">COMANDO POR RÁDIO 3</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_VOICECHAT3</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">COMANDO POR RÁDIO 4</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2836,7 +2836,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">ZERO-G BRAKE</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_GRAVITYBOOTS</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">BOTAS DE GRAVIDADE</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2856,7 +2856,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">TIRO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_ZOOM/ALTFIRE/VIEWMODE</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ZOOM-MODO TIRO/VISÃO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2871,7 +2871,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">RECARREGAR</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_DROPWEAPON</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">DEIXAR A ARMA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2891,17 +2891,17 @@
     <Cell ss:Index="4"><Data ss:Type="String">PRÓXIMA ARMA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_WEAPONMELEEATTACK</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ARMA ANTERIOR</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_QUICKGRENADETHROW</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ATAQUE SECUNDÁRIO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s63"><Data ss:Type="String">ui_menu_SELECTGRENADE</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">LANÇAR GRANADA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2911,22 +2911,22 @@
     <Cell ss:Index="4"><Data ss:Type="String">VISÃO NOTURNA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_SHORTRANGEWEAPONTOGGLE</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">TROCAR ARMA DE CURTO ALCANÇE</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_ASSAULTWEAPONTOGGLE</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">TROCAR ARMA DE ASSALTO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_SUITMODETOGGLE</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">TROCAR FUNÇÃO DO TRAJE</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_EXPLOSIVESTOGGLE</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">TROCAR TIPO DE EXPLOSIVO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2946,7 +2946,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">INTERAÇÃO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_USE/ENTER/PICKUP</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">INTERAÇÃO / ENTRAR / SAIR</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -2971,27 +2971,27 @@
     <Cell ss:Index="4"><Data ss:Type="String">MENU RÁPIDO DO TRAJE</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_SCOREBOARDOBJECTIVES</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">RANK / OBJETIVOS</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_OPEN/CLOSE PDA</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ABRIR / FECHAR PDA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_OPEN/CLOSEOBJECTIVES</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ABRIR / FECHAR OBJETIVOS</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s63"><Data ss:Type="String">ui_menu_SELECTMENU</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ABRIR / FECHAR MAPA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_OPEN/CLOSEEQUIPMENT</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ABRIR / FECHAR EQUIPAMENTO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -3026,27 +3026,27 @@
     <Cell ss:Index="4"><Data ss:Type="String">NÃO USADO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_GENERALVEHICLEKEYS</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">TÉCLAS GERAIS DO VEÍCULO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_SWITCHTODRIVERSEAT</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ASSENTO DO MOTORISTA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_SWITCHTOGUNNERSEAT</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ASSENTO DO ATIRADOR</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_TOGGLEPASSENGERSEATS</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ALTERNAR ENTRE ASSENTOS</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_TOGGLETHIRDPERSONVIEW</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">MUDAR PARA VISÃO DE 3º PESSOA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -3076,27 +3076,27 @@
     <Cell ss:Index="4"><Data ss:Type="String">LUZES</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_LAND/SEAVEHICLES</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">VEÍCULOS DE TERRA/ MAR</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_ACCELERATE/FORWARD</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ACELERAR / PARA FRENTE</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_DECELERATE/BACKWARD</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">DESACELERAR / PARA TRÁS</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_TURNLEFT</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">VIRAR PARA ESQUERDA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_TURNRIGHT</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">VIRAR PARA DIREITA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -3121,7 +3121,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">LIGAR MOTOR</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_POWERDOWNENGINE</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">DESLIGAR MOTOR</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -3131,7 +3131,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">GIRAR PARA ESQUERDA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_ROLLRIGHT</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">GIRAR PARA DIREITA</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -3166,7 +3166,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">MOVER PARA BAIXO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_btn_LOOK/MOVE</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">OLHAR/MOVER</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -3201,7 +3201,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">CARREGANDO - ‹Traduções GBJ‹</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_DPROCESSING</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">PROCESSANDO DADOS</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -3211,7 +3211,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">VOLTAR AO JOGO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_igmenu_BUTTON02</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ÚLTI. PONTO DE CONTROLE</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -3261,7 +3261,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">LOADOUT</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_buy_HEADER</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">BARRACAS : COMPRAR</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
@@ -3281,7 +3281,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">CONTEÚDO LOADOUT</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_buy_NOSPACE</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">NÃO HÁ MAIS ESPAÇO NO INVENTÁRIO PARA COMPRAR PACOTES</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
@@ -3351,7 +3351,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">UNIR-SE A UM SERVIDOR POPULAR COM O MELHOR PING</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_LOOKFORSERVER</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">PROCURE UM SERVIDOR OU CRIE SEU PRÓPRIO JOGO NA INTERNET</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -3511,7 +3511,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">ERROS DETECTADOS</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_ACCESSINGDATA</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ACESSANDO O BANCO DE DADOS CENTRAL, POR FAVOR AGUARDE</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -3611,7 +3611,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">BAIXAR MAPAS</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_DLMESSAGE</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">O servidor que você está tentando conectar usa mapas que você não tem:</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -3726,17 +3726,17 @@
     <Cell ss:Index="4"><Data ss:Type="String">TEM CERTEZA QUE DESEJA CONTINUAR?</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_pda_SWITCHTOSPEC</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">TROCANDO PARA O MODO ESPECTADOR,  O PROGRESSO DO JOGO ATUAL SERÁ PERDIDO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_pda_WANNSWITCHTOTAN</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">TROCANDO PARA A EQUIPE NORTE-COREANA, SEU JOGO ATUAL SERÁ PERDIDO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_pda_WANNSWITCHTOUS</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">TROCANDO PARA A EQUIPE DOS ESTADOS UNIDOS O PROGRESSO DO JOGO ATUAL SERÁ PERDIDO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
@@ -3781,7 +3781,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">ESPECTADOR</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_pda_TEAMFULL</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">A EQUIPE SELECIONADA ESTÁ CHEIA, POR FAVOR, JUNTE-SE A OUTRA EQUIPE</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
@@ -3801,12 +3801,12 @@
     <Cell ss:Index="4"><Data ss:Type="String">PONTO DE CONTROLE ALCANÇADO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="12">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">game_saved</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">JOGO SALVO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">hud</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="12">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">game_saving</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">SALVANDO JOGO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"/>
@@ -3833,7 +3833,7 @@
     <Cell ss:Index="2"><Data ss:Type="String">ui_btn_ACCOUNTINFO</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">INFO DA CONTA</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_LOOKFORSERVER2</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">PROCURAR POR SERVIDOR OU CRIAR SEU PRÓPRIO JOGO NA REDE</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -4089,7 +4089,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">CAPTURAR</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_SERVERPASSNEED</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">VOCÊ PRECISA DA SENHA PARA SE CONECTAR A ESTE SERVIDOR</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -4109,7 +4109,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">CARREGANDO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_SAVEGAMEEXISTS</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">UM JOGO SALVO COM ESTE NOME JÁ EXISTE, DESEJA CONTINUAR?</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"/>
@@ -5492,7 +5492,7 @@
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_FORGOTPASSWORD</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ESQUECEU A SENHA?</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_FORGOTPASSWORDTEXT1</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">POR FAVOR COLOQUE SEU E-MAIL ASSOCIADO A SUA CONTA. UM EMAIL COM INSTRUÇÕES ADICIONAIS SERÁ ENVIADO A ESTE E-MAIL</Data></Cell>
    </Row>
@@ -5604,7 +5604,7 @@
     <Cell ss:Index="2"><Data ss:Type="String">ui_btn_ACCEPT</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ACEITAR</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_LOADDEFAULTSETTINGS</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">TODAS AS CONFIGURAÇÕES ALTERADAS VOLTARÃO PARA O PADRÃO, VOCÊ TEM CERTEZA?</Data></Cell>
    </Row>
@@ -5632,7 +5632,7 @@
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_register</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">CRIANDO UMA CONTA NO SISTEMA CRYNET</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_load_last_save</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">Carregando o último jogo salvo em %1 segundo(s). Pressione 'Fogo' para carregar agora.</Data></Cell>
    </Row>
@@ -5776,7 +5776,7 @@
     <Cell ss:Index="2"><Data ss:Type="String">ui_LOCK_TARGET</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ALVO</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s63"><Data ss:Type="String">ui_menu_REALLYRESTART</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">VOCÊ TEM CERTEZA QUE DESEJA REINICIAR O NÍVEL?</Data></Cell>
    </Row>
@@ -5828,7 +5828,7 @@
     <Cell ss:Index="2"><Data ss:Type="String">ui_CHARGING_FUEL_CELLS</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">CARREGANDO CÉLULA COMBUSTÍVEL</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_RECOVERING_DAMAGED_NANO_MACHINES</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">RECUPERANDO O DANO DAS NANO MÁQUINAS</Data></Cell>
    </Row>
@@ -5900,7 +5900,7 @@
     <Cell ss:Index="2"><Data ss:Type="String">ui_btn_JOINTEAM</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">UNIR-SE A EQUIPE</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_MESSAGEFORCREATEACCOUNT</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">VOCÊ PODE USAR SUA CONTA ID EXISTENTE NA GAMESPY PARA CRIAR UM NOVO APELIDO. PARA FAZER ISSO, ENTRE COM UM E-MAIL ASSOCIADO E A SENHA.</Data></Cell>
    </Row>
@@ -5917,7 +5917,7 @@
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_PROFILEDELETED</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">O PERFIL FOI EXCLUIDO COM SUCESSO!</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_ADVANCE_OPTIONS</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">VOCÊ TEM CERTEZA QUE DESEJA USAR ESTAS CONFIGURAÇÕES?</Data></Cell>
    </Row>
@@ -5949,15 +5949,15 @@
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_open_map</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s95"><Data ss:Type="String">Pressione %[default:hud_show_pda_map] para selecionar a equipe.</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s104"><Data ss:Type="String">ui_spectate_functionality</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s105"><Data ss:Type="String">Pressione %[default:cycle_spectator_mode] para alternar entre os modos.</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s104"><Data ss:Type="String">ui_spectate_functionality_tp</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s105"><Data ss:Type="String">Pressione %[default:cycle_spectator_mode] para alternar entre os modos e %[default:prev_spectator_target] ou %[default:next_spectator_target] para trocar de jogador.</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s95"><Data ss:Type="String">ui_spectate_functionality_dead</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s104"><Data ss:Type="String">Pressione %[default:prev_spectator_target] ou %[default:next_spectator_target] para trocar de jogador.</Data></Cell>
    </Row>
@@ -6215,11 +6215,11 @@
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_difficult4_text05</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">Fala dos Inimigos em Coreano</Data></Cell>
    </Row>
-   <Row ss:Index="1163" ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row ss:Index="1163">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_difficultyText_01</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s101"><Data ss:Type="String">DESTACAR ATACANTES, MOTORISTA CONTROLA A ARMA, BINÓCULO SIMPLES, FALA DOS INIMIGOS EM INGLÊS</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_difficultyText_02</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s108"><Data ss:Type="String">DESTACAR ATACANTES, MOTORISTA CONTROLA A ARMA, BINÓCULO SIMPLES, FALA DOS INIMIGOS EM INGLÊS</Data></Cell>
    </Row>
@@ -6227,7 +6227,7 @@
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_difficultyText_03</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s65"><Data ss:Type="String">BINÓCULO NORMAL, FALA DOS INIMIGOS EM INGLÊS</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_difficultyText_04</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s65"><Data ss:Type="String">MIRA DESATIVADA, MIRA DE FERRO NORMAL, NÃO AVISAR NA FALTA DE GRANADAS, BINÓCULO NORMAL, FALA DOS INIMIGOS EM COREANO</Data></Cell>
    </Row>
@@ -6283,11 +6283,11 @@
     <Cell ss:Index="2"><Data ss:Type="String">ui_FSAAQuality</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">QUALIDADE DO ANTI-ALIASING</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_FSAAForced</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s65"><Data ss:Type="String">As propriedades da placa de vídeo estão forçando o Anti-Aliasing, por favor use as opções do jogo ao invés das opções da VGA.</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_FSAASetApp</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s65"><Data ss:Type="String">Por favor, configure o Anti-Aliasing para &quot;controlado por aplicativo&quot; nas opções do Software da sua Placa de Vídeo.</Data></Cell>
    </Row>
@@ -6295,7 +6295,7 @@
     <Cell ss:Index="2"><Data ss:Type="String">ui_AppNextTime</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">As mudanças serão aplicada da próxima vez que o jogo for inicializado.</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_SomeAppNextTime</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s65"><Data ss:Type="String">Algumas mudanças serão aplicadas na próxima vez que o jogo for inicializado.</Data></Cell>
    </Row>
@@ -6562,7 +6562,7 @@
     <Cell><Data ss:Type="String">ui_disconnect_warning</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s65"><Data ss:Type="String">Isso lhe desconectará do seu jogo atual. Deseja Continuar?</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s118"><Data ss:Type="String">S</Data></Cell>
     <Cell><Data ss:Type="String">ui_quickgame_error</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s65"><Data ss:Type="String">Não foi encontrado nenhum ojogo que corresponda as suas preferências.</Data></Cell>
@@ -6572,7 +6572,7 @@
     <Cell><Data ss:Type="String">ui_quickgame_search</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">Procurando por jogo rápido.</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s118"><Data ss:Type="String">S</Data></Cell>
     <Cell><Data ss:Type="String">ui_patch_warning</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s65"><Data ss:Type="String">Atualização disponível. Isto abrirá a página de download do patch no seu navegador padrão. Continuar?</Data></Cell>
@@ -6886,7 +6886,7 @@
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_REALLYLEAVEGAME</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s103"><Data ss:Type="String">VOCÊ TEM CERTEZA QUE DESEJA SAIR DO JOGO?</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s109"><Data ss:Type="String">P</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_REALLYLEAVESERVER</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s103"><Data ss:Type="String">VOCÊ TEM CERTEZA QUE DESEJA DESCONECTAR-SE DO SERVIDOR?</Data></Cell>
@@ -6938,7 +6938,7 @@
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_OBJ</Data></Cell>
     <Cell ss:Index="4" ss:StyleID="s103"><Data ss:Type="String">OBJ</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s109"><Data ss:Type="String">P</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">ui_error_no_pb_64bit</Data></Cell>
     <Cell ss:StyleID="s112"/>
@@ -7002,10 +7002,10 @@
     <Cell ss:StyleID="s63"/>
     <Cell><Data ss:Type="String">Chinês</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="22.5">
+   <Row ss:Height="22.5">
     <Cell ss:Index="3"><Data ss:Type="String">C1C new boot flow and menu screens</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s112"><Data ss:Type="String">hud_saveIconBootMessage1</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ESTE JOGO POSSUI REGISTRO AUTOMATICO DE JOGO SALVO. QUANDO APARECE ESTE ÍCONE.</Data></Cell>
    </Row>
@@ -7028,11 +7028,11 @@
     <Cell ss:Index="2" ss:StyleID="s112"><Data ss:Type="String">menu_press_start_to_begin_b</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">PARA COMEÇAR</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s99"><Data ss:Type="String">menu_legal_message</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">© Crytek GmbH 2020. Todos os direitos reservados. Crytek, Crysis e CRYENGINE são marcas comerciais ou marcas registradas da Crytek GmbH nos EUA e em outros países. Todas as outras marcas comerciais são de propriedade de seus respectivos proprietários.</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="63.75">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s63"><Data ss:Type="String">ui_legal_info</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">© Crytek GmbH 2020. Todos os direitos reservados. Crytek, Crysis e CRYENGINE são marcas comerciais ou marcas registradas da Crytek GmbH nos EUA e em outros países.  Todas as outras marcas comerciais são de propriedade de seus respectivos proprietários. </Data></Cell>
    </Row>
@@ -7044,7 +7044,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s99"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_btn_STORAGE</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ARMAZENAMENTO</Data></Cell>
@@ -7054,7 +7054,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_menu_AIMASSIST</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ASSISTENTE DE AJUDA</Data></Cell>
@@ -7064,7 +7064,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_menu_VEHICLECAMERA</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">CÂMERA DO VEÍCULO (PILOTO)</Data></Cell>
@@ -7074,7 +7074,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_menu_MOUNTEDWEAPONCAMERA</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">CÂMERA DO VEÍCULO (ARTILHEIRO)</Data></Cell>
@@ -7084,7 +7084,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_menu_1STPERSON</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">1ª PESSOA</Data></Cell>
@@ -7094,7 +7094,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_menu_3RDPERSON</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">3ª PESSOA</Data></Cell>
@@ -7104,7 +7104,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_menu_CUTSCENESUBS</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">APENAS CUTSCENES</Data></Cell>
@@ -7114,7 +7114,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_menu_3DOPTIONS</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">OPÇÕES 3D</Data></Cell>
@@ -7124,7 +7124,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_menu_SIDEBYSIDE</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">LADO A LADO</Data></Cell>
@@ -7134,7 +7134,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_menu_OVERUNDER</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">EMCIMA-DEBAIXO</Data></Cell>
@@ -7144,7 +7144,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_menu_FLIPEYES</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">GIRAR OS OLHOS</Data></Cell>
@@ -7154,7 +7154,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_menu_3DMODE</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">MODO 3D</Data></Cell>
@@ -7164,7 +7164,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_menu_STEREOSTRENGTH</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">INTENSIDADE 3D</Data></Cell>
@@ -7174,7 +7174,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_menu_SENSITIVITY</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">SENSIBILIDADE</Data></Cell>
@@ -7184,7 +7184,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_menu_CONFIGURATION</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">CONFIGURAÇÕES</Data></Cell>
@@ -7194,7 +7194,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_menu_BASICLAYOUT</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">CONTROLES DO JOGADOR</Data></Cell>
@@ -7204,7 +7204,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_menu_VEHICLELAYOUT</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">CONTROLES DE VEÍCULOS</Data></Cell>
@@ -7214,7 +7214,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_menu_BUTTONLAYOUT</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ESQUEMA DE BOTÕES</Data></Cell>
@@ -7224,7 +7224,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_menu_STICKLAYOUT</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ESQUEMA DE CONTROLES</Data></Cell>
@@ -7234,7 +7234,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_menu_DEFAULT</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">PADRÃO</Data></Cell>
@@ -7244,7 +7244,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_menu_LAYOUT2</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ALTERNATIVA 1</Data></Cell>
@@ -7254,7 +7254,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_menu_LAYOUT3</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ALTERNATIVA 2</Data></Cell>
@@ -7264,7 +7264,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="22.5">
+   <Row>
     <Cell ss:StyleID="s63"/>
     <Cell ss:Index="3"><Data ss:Type="String">Warnings Manager Strings</Data></Cell>
     <Cell ss:Index="5" ss:StyleID="s63"/>
@@ -8802,7 +8802,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ui_save_corrupt_ps3</Data></Cell>
     <Cell ss:StyleID="s63"/>
@@ -9002,7 +9002,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ui_menu_REPLACESAVEGAME</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">Deseja realmente continuar? Você perderá os postos de controle anteriores.</Data></Cell>
@@ -9012,7 +9012,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ui_menu_REPLACESAVEGAME_NEWGAME</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">Deseja realmente começar um novo jogo? Você perderá os postos de controle anteriores.</Data></Cell>
@@ -9336,7 +9336,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ui_level_Contact_Description</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">As forças da KPA tomaram o controle das Ilhas Lingshan. Depois de receber um pedido de socorro de uma equipe internacional de arqueólogos, a equipe raptor das Forças Especiais dos EUA vão periciar a área para resgatá-los...</Data></Cell>
@@ -9346,7 +9346,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ui_level_Recovery_Description</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">A equipe de arqueólogos ainda não foi encontrada, então a busca deve continuar, começando pela aldeia próxima...</Data></Cell>
@@ -9356,7 +9356,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ui_level_Relic_Description</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">Rosenthal deve localizar o complexo de pesquisa do Dr. Rosenthal e cuidar de todos os inimigos que aparecerem ao longo do caminho...</Data></Cell>
@@ -9366,7 +9366,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ui_level_Assault_Description</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">O Major Strickland lançou um ataque militar em larga escala contra as forças da KPA estacionadas na ilha. Nomad ajuda as forças americanas na batalha pelo porto...</Data></Cell>
@@ -9376,7 +9376,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ui_level_Onslaught_Description</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">Nomad acompanha a divisão blindada dos EUA e deve entrar no vale até chegar a uma instalação de mineração na montanha, onde a filha do Dr. Rosenthal é mantida...</Data></Cell>
@@ -9386,7 +9386,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ui_level_Awakening_Description</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">Com instalações de mineração fortemente protegidas por soldados da KPA, Nomad deve se infiltrar no complexo e resgatar a filha do Dr. Rosenthal...</Data></Cell>
@@ -9396,7 +9396,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ui_level_Core_Description</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">Presa em uma caverna que desabou, a única rota possível leva ao interior da misteriosa estrutura alienígena...</Data></Cell>
@@ -9406,7 +9406,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ui_level_ParadiseLost_Description</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">A estrutura alienígena criou uma esfera de energia que congela tudo que está dentro e impede sua extração. Nomad deve escapar ou será transformado em gelo...</Data></Cell>
@@ -9416,7 +9416,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ui_level_Exodus_Description</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">Depois de escapar da esfera congelada, Nomad e Prophet encontram a equipe de Strickland e ajudam a evacuar a ilha...</Data></Cell>
@@ -9426,7 +9426,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ui_level_Reckoning_Description</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">Após de retornar à Constituição da USS, a equipe raptor se reagrupa para o confronto final...</Data></Cell>
@@ -9566,7 +9566,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="51.75">
+   <Row ss:Height="25.5">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ui_menu_MYCRYSIS_DESCRIPTION</Data></Cell>
     <Cell ss:StyleID="s63"/>
@@ -9608,7 +9608,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"><Data ss:Type="String">menu_hinttext02</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">Dica: Mude o modo do traje rapidamente para manobras avançadas de combate.</Data></Cell>
@@ -9658,7 +9658,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"><Data ss:Type="String">menu_hinttext07</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">Dica: Se você usar a mira da arma, o objetivo vai estabilizar e seus tiros serão mais precisos.</Data></Cell>
@@ -9708,7 +9708,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"><Data ss:Type="String">menu_hinttext12</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">Dica: Você pode carregar uma pistola, duas armas de assalto e vários itens de equipamento.</Data></Cell>
@@ -9728,7 +9728,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"><Data ss:Type="String">menu_hinttext14</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">Dica: Use o binóculo para destacar posições inimigas e exibir marcadores de destino.</Data></Cell>
@@ -9738,7 +9738,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"><Data ss:Type="String">menu_hinttext15</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">Dica: No modo de força, objetos e granadas podem ser lançados para longe.</Data></Cell>
@@ -9758,7 +9758,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"><Data ss:Type="String">menu_hinttext17</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">Dica: Pressione e segure corpo a corpo para um forte ataque corpo a corpo.</Data></Cell>
@@ -9778,7 +9778,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"><Data ss:Type="String">menu_hinttext19</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">Dica: Mude o modo do tiro para usar um acessório sob a arma equipada.</Data></Cell>
@@ -9808,7 +9808,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"><Data ss:Type="String">menu_hinttext22</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">Dica: O acessório tático dispara dardos que atordoam o inimigo temporariamente.</Data></Cell>
@@ -9818,7 +9818,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"><Data ss:Type="String">menu_hinttext23</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">Dica: Atire no tanque de combustível do veículo para destruí-lo rápidamente.</Data></Cell>
@@ -9852,7 +9852,7 @@
     <Cell ss:Index="2"><Data ss:Type="String">menu_stereo_warning_header</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">AVISO DE SAÚDE</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+   <Row ss:Height="51">
     <Cell ss:Index="2" ss:StyleID="s63"><Data ss:Type="String">menu_stereo_warning_body</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">Algumas pessoas podem sentir desconforto (como visão cansada e fadigada ou náusea) ao ver imagens de vídeo 3D ou reproduzir videogames em 3D estereoscópicos em TVs e monitores 3D. Se você sentir tal desconforto, você deve parar de usar sua TV ou monitor imediatamente até que o inconveniente diminua. Em geral, recomendamos que você evite o uso prolongado do sistema 3D e descanse 15 minutos a cada hora de jogo. No entanto, ao reproduzir jogos de vídeo 3D estereoscópicos ou visualizar imagens 3D, a duração e a frequência das pausas podem variar de pessoa para pessoa. Descanse o suficiente até que o desconforto pare. Se os sintomas persistirem, consulte seu médico. A visão de crianças, especialmente antes dos seis anos de idade, ainda está se desenvolvendo. Recomendamos que você consulte o médico ou optometrista do seu filho antes de permitir que ele ou ela visualize imagens de vídeo 3D ou jogue videogames 3D estereoscópicos. Os adultos devem monitorar as crianças pequenas para ter certeza de que sigam as recomendações acima.</Data></Cell>
    </Row>
@@ -9904,12 +9904,12 @@
     <Cell ss:Index="4"><Data ss:Type="String">RECARREGAR\n(SEGURE: PARA USAR)</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s63"><Data ss:Type="String">ui_menu_WEAPON_SELECT</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">PRÓXIMA ARMA\n(SEGURE: PARA O MENU DE SELEÇÃO DE ARMAS)</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2" ss:StyleID="s63"><Data ss:Type="String">ui_menu_WEAPON_SELECT_ALT</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">PRÓXIMA ARMA\nTOQUE DUPLO:  PARA A GRANADA DE LANÇAMENTO\n(SEGURE:PARA O MENU DE SELEÇÃO DE ARMAS)</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
@@ -10670,12 +10670,12 @@
     <Cell ss:Index="4"><Data ss:Type="String">SINCRONIZAÇÃO VERTICAL</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_CUSTOMIZATIONMENU</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">MENU DE OPÇÕES</Data></Cell>
     <Cell ss:Index="6"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_OPEN/CLOSE MAP</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ABRIR / FECHAR MAPA</Data></Cell>
     <Cell ss:Index="6"><Data ss:Type="String">menu</Data></Cell>
@@ -10690,7 +10690,7 @@
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_TEAMCHAT</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">ABRIR BATE-PAPO EM EQUIPE</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_VOICECHAT</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">BATE-PAPO DE VOZ</Data></Cell>
    </Row>
@@ -10707,7 +10707,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">ALTERAR PERFIL</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_menu_STICKLAYOUT_xbox</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">LAYOUT DO STICKS</Data></Cell>
@@ -10727,7 +10727,7 @@
     <Cell ss:Index="4"><Data ss:Type="String">MODO PERFORMANCE</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_menu_BUTTONLAYOUT_nx</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">LAYOUT DOS BOTÕES</Data></Cell>
@@ -10737,7 +10737,7 @@
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s63"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s63"/>
     <Cell ss:StyleID="s124"><Data ss:Type="String">ui_menu_STICKLAYOUT_nx</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">LAYOUT DO STICKS</Data></Cell>
@@ -10752,15 +10752,39 @@
     <Cell ss:Index="4"><Data ss:Type="String">GIROSCÓPIO</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:Index="2" ss:StyleID="s124"><Data ss:Type="String">ui_menu_BUTTONLAYOUT_ps4</Data></Cell>
     <Cell ss:Index="4"><Data ss:Type="String">LAYOUT DO BOTÃO</Data></Cell>
    </Row>
    <Row>
-    <Cell ss:Index="4" ss:StyleID="s66"/>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_SENSITIVITYADS</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">SENSIBILIDADE ADES</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
    <Row>
-    <Cell ss:Index="4" ss:StyleID="s66"/>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_SENSITIVITY_SETTINGS_MODE</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">DEFINIÇÕES DE SENSIBILIDADE</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_SIMPLE</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">SIMPLIFICADO</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_MotionBlur</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">BORÃO DE MOVIMENTO</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_PERFORMANCE</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">PERFORMANCE</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_QUALITY</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">QUALIDADE</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s69"><Data ss:Type="String">menu</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
@@ -10781,12 +10805,12 @@
    </Print>
    <Zoom>75</Zoom>
    <Selected/>
-   <TopRowVisible>512</TopRowVisible>
+   <TopRowVisible>1618</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>512</ActiveRow>
-     <ActiveCol>3</ActiveCol>
+     <ActiveRow>1598</ActiveRow>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
